@@ -1,0 +1,27 @@
+/* CSS property targeting all unordered lists*/
+ul {
+	font-size: 20px;
+	color:blue;
+}
+
+/* CSS property targeting all paragraphs*/
+p{
+	color:green;
+}
+
+body {
+	background-color: gray;
+	text-align: center;
+}
+
+img {
+	width:10%;
+}
+
+/* target all elements tagged with class 'wow' */
+.wow {
+  color: blue;
+}
+
+
+
